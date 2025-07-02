@@ -1,0 +1,2 @@
+openaiModel folder works as the backend if the openai API is paid for. It takes a json string as input and does a SQL command on a postgres db remotely using psycopg2. I pass in three things to the model, database schema, instructions.txt and user message. It returns text along with a list of actions each with purpose so that my code knows what action to perform.
+In most cases it just performs a SQL query and returns that result to the frontend which should be running on react.
