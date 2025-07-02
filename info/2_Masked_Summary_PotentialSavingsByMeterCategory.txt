@@ -1,0 +1,733 @@
+customername	Metercategory	Costcategory	Cost
+[customername]-AACCBEA3	Azure Bastion	Cost	926.25000000000011
+[customername]-AACCBEA3	Azure Cognitive Search	Cost	1321.1700000000001
+[customername]-AACCBEA3	Azure DevOps	Cost	963.47000000000071
+[customername]-AACCBEA3	Azure Firewall	Cost	747.34999999999991
+[customername]-AACCBEA3	Data Lake Store	Cost	802.38000000000034
+[customername]-AACCBEA3	Functions	Cost	627.49999999999932
+[customername]-AACCBEA3	Log Analytics	Cost	2758.0524743630913
+[customername]-AACCBEA3	Other	Cost	3086.894529972245
+[customername]-AACCBEA3	Security Center	Cost	1013.3599999999988
+[customername]-AACCBEA3	Storage	Cost	7108.6241352944135
+[customername]-AACCBEA3	Virtual Machines	Cost	8655.8299999999654
+[customername]-AACCBEA3	Virtual Network	Cost	604.32149789914422
+[customername]-AACCBEA3	Azure Analysis Services	Cost	584.21000000000004
+[customername]-AACCBEA3	Azure App Service	Cost	4290.5725806451474
+[customername]-AACCBEA3	Azure Data Factory v2	Cost	1272.8099999999977
+[customername]-AACCBEA3	Azure Database for PostgreSQL	Cost	1654.578958947
+[customername]-AACCBEA3	Azure Synapse Analytics	Cost	9764.4946350260016
+[customername]-AACCBEA3	SQL Database	Cost	2725.180965762183
+[customername]-AACCBEA3	VPN Gateway	Cost	1104.9372936878106
+[customername]-AACCBEA3	Azure Analysis Services	Cost after optimization	584.21000000000004
+[customername]-AACCBEA3	Azure App Service	Cost after optimization	4290.5725806451483
+[customername]-AACCBEA3	Azure Data Factory v2	Cost after optimization	1272.8099999999979
+[customername]-AACCBEA3	Azure Database for PostgreSQL	Cost after optimization	1654.5789589469982
+[customername]-AACCBEA3	Azure Synapse Analytics	Cost after optimization	9764.4946350260052
+[customername]-AACCBEA3	SQL Database	Cost after optimization	2725.1809657621816
+[customername]-AACCBEA3	VPN Gateway	Cost after optimization	1104.9372936878103
+[customername]-AACCBEA3	Azure Bastion	Cost after optimization	926.24999999999955
+[customername]-AACCBEA3	Azure Cognitive Search	Cost after optimization	1321.1700000000001
+[customername]-AACCBEA3	Azure DevOps	Cost after optimization	963.47000000000014
+[customername]-AACCBEA3	Azure Firewall	Cost after optimization	747.34999999999991
+[customername]-AACCBEA3	Data Lake Store	Cost after optimization	802.38000000000034
+[customername]-AACCBEA3	Functions	Cost after optimization	627.49999999999955
+[customername]-AACCBEA3	Log Analytics	Cost after optimization	2758.0524743630922
+[customername]-AACCBEA3	Other	Cost after optimization	3086.894529972245
+[customername]-AACCBEA3	Security Center	Cost after optimization	1013.3599999999988
+[customername]-AACCBEA3	Storage	Cost after optimization	7108.6241352943962
+[customername]-AACCBEA3	Virtual Machines	Cost after optimization	6248.8299999999763
+[customername]-AACCBEA3	Virtual Network	Cost after optimization	604.32149789914388
+[customername]-ADD982FB	API Management	Cost	54891.114798332805
+[customername]-ADD982FB	Application Gateway	Cost	66085.947265690324
+[customername]-ADD982FB	Azure App Service	Cost	122733.88245524935
+[customername]-ADD982FB	Azure Firewall	Cost	101278.78227389048
+[customername]-ADD982FB	Azure Monitor	Cost	668685.05491017154
+[customername]-ADD982FB	Azure NetApp Files	Cost	105759.55539589125
+[customername]-ADD982FB	Backup	Cost	377519.22951009916
+[customername]-ADD982FB	Log Analytics	Cost	149533.04824742681
+[customername]-ADD982FB	Other	Cost	446671.43860302167
+[customername]-ADD982FB	Security Center	Cost	64931.655810957265
+[customername]-ADD982FB	Sentinel	Cost	230728.11561972773
+[customername]-ADD982FB	SQL Database	Cost	187359.21845757816
+[customername]-ADD982FB	SQL Managed Instance	Cost	55472.828078642866
+[customername]-ADD982FB	Storage	Cost	1005564.3185959607
+[customername]-ADD982FB	Unassigned	Cost	165129.01875793986
+[customername]-ADD982FB	Virtual Machines	Cost	1056208.7980088794
+[customername]-ADD982FB	Virtual Machines Licenses	Cost	58029.866791430672
+[customername]-ADD982FB	Virtual Network	Cost	80259.088188918831
+[customername]-ADD982FB	API Management	Cost after optimization	54891.114798332797
+[customername]-ADD982FB	Application Gateway	Cost after optimization	66085.947265690382
+[customername]-ADD982FB	Azure App Service	Cost after optimization	100492.88245524926
+[customername]-ADD982FB	Azure Firewall	Cost after optimization	101278.78227389097
+[customername]-ADD982FB	Azure Monitor	Cost after optimization	668685.05490992765
+[customername]-ADD982FB	Azure NetApp Files	Cost after optimization	105759.55539589134
+[customername]-ADD982FB	Backup	Cost after optimization	119165.81357790119
+[customername]-ADD982FB	Log Analytics	Cost after optimization	149533.04824742669
+[customername]-ADD982FB	Other	Cost after optimization	446671.43860302161
+[customername]-ADD982FB	Security Center	Cost after optimization	64931.655810957251
+[customername]-ADD982FB	Sentinel	Cost after optimization	230728.11561972776
+[customername]-ADD982FB	SQL Database	Cost after optimization	187359.21845757775
+[customername]-ADD982FB	SQL Managed Instance	Cost after optimization	45925.82807864291
+[customername]-ADD982FB	Storage	Cost after optimization	996728.31859601953
+[customername]-ADD982FB	Unassigned	Cost after optimization	165129.01875794071
+[customername]-ADD982FB	Virtual Machines	Cost after optimization	740584.44027439121
+[customername]-ADD982FB	Virtual Machines Licenses	Cost after optimization	58029.86679143041
+[customername]-ADD982FB	Virtual Network	Cost after optimization	80259.088188925627
+[customername]-202DE5A4	Application Gateway	Cost	94.54671518955999
+[customername]-202DE5A4	Azure App Service	Cost	66.996889999999979
+[customername]-202DE5A4	Azure Bastion	Cost	127.29405860000008
+[customername]-202DE5A4	Azure Firewall	Cost	842.23244460000012
+[customername]-202DE5A4	Log Analytics	Cost	165.61904599080006
+[customername]-202DE5A4	Microsoft Defender for Cloud	Cost	175.90571933500198
+[customername]-202DE5A4	Other	Cost	86.609082806663707
+[customername]-202DE5A4	SaaS	Cost	103
+[customername]-202DE5A4	Storage	Cost	491.31781803785213
+[customername]-202DE5A4	Virtual Machines	Cost	1022.3113540000022
+[customername]-202DE5A4	Virtual Network	Cost	33.571369153009364
+[customername]-202DE5A4	Application Gateway	Cost after optimization	94.54671518955999
+[customername]-202DE5A4	Azure App Service	Cost after optimization	66.996889999999979
+[customername]-202DE5A4	Azure Bastion	Cost after optimization	127.29405860000008
+[customername]-202DE5A4	Azure Firewall	Cost after optimization	842.23244460000012
+[customername]-202DE5A4	Log Analytics	Cost after optimization	165.61904599080006
+[customername]-202DE5A4	Microsoft Defender for Cloud	Cost after optimization	175.90571933500198
+[customername]-202DE5A4	Other	Cost after optimization	86.609082806663707
+[customername]-202DE5A4	SaaS	Cost after optimization	103
+[customername]-202DE5A4	Storage	Cost after optimization	491.31781803785213
+[customername]-202DE5A4	Virtual Machines	Cost after optimization	1022.3113540000022
+[customername]-202DE5A4	Virtual Network	Cost after optimization	33.571369153009364
+[customername]-66FBEF6B	App Center	Cost	619.1138199999989
+[customername]-66FBEF6B	Automation	Cost	604.69637048899983
+[customername]-66FBEF6B	Azure App Service	Cost	1066.1862900000001
+[customername]-66FBEF6B	Azure Data Factory v2	Cost	2766.934676040943
+[customername]-66FBEF6B	Azure Purview	Cost	782.49813703099983
+[customername]-66FBEF6B	Log Analytics	Cost	1189.5556405000605
+[customername]-66FBEF6B	Logic Apps	Cost	636.34887341565513
+[customername]-66FBEF6B	Microsoft Fabric	Cost	1763.7815000000003
+[customername]-66FBEF6B	Other	Cost	1654.713700017868
+[customername]-66FBEF6B	SQL Database	Cost	26934.621606310498
+[customername]-66FBEF6B	Storage	Cost	4664.9720217807871
+[customername]-66FBEF6B	Virtual Machines	Cost	13298.380649600693
+[customername]-66FBEF6B	Virtual Machines Licenses	Cost	1488.8891743999991
+[customername]-66FBEF6B	Virtual Network	Cost	1301.6495011214799
+[customername]-66FBEF6B	VPN Gateway	Cost	875.80326000000014
+[customername]-66FBEF6B	App Center	Cost after optimization	619.11381999999935
+[customername]-66FBEF6B	Automation	Cost after optimization	604.69637048899995
+[customername]-66FBEF6B	Azure App Service	Cost after optimization	1066.1862900000012
+[customername]-66FBEF6B	Azure Data Factory v2	Cost after optimization	2766.9346760409544
+[customername]-66FBEF6B	Azure Purview	Cost after optimization	782.49813703099994
+[customername]-66FBEF6B	Log Analytics	Cost after optimization	1189.5556405000605
+[customername]-66FBEF6B	Logic Apps	Cost after optimization	636.34887341565491
+[customername]-66FBEF6B	Microsoft Fabric	Cost after optimization	1763.7815000000003
+[customername]-66FBEF6B	Other	Cost after optimization	1654.7137000178484
+[customername]-66FBEF6B	SQL Database	Cost after optimization	26934.621606310102
+[customername]-66FBEF6B	Storage	Cost after optimization	4664.9720217810755
+[customername]-66FBEF6B	Virtual Machines	Cost after optimization	9843.3806496006873
+[customername]-66FBEF6B	Virtual Machines Licenses	Cost after optimization	1488.8891744000005
+[customername]-66FBEF6B	Virtual Network	Cost after optimization	1301.6495011215238
+[customername]-66FBEF6B	VPN Gateway	Cost after optimization	875.80325999999855
+[customername]-FF252CB5	Azure App Service	Cost	14354.481822903108
+[customername]-FF252CB5	Azure Database for MySQL	Cost	13964.373151131178
+[customername]-FF252CB5	Backup	Cost	4841.0343505191395
+[customername]-FF252CB5	Other	Cost	7817.7115872376107
+[customername]-FF252CB5	Storage	Cost	139886.47765529639
+[customername]-FF252CB5	Virtual Machines	Cost	290076.31145512889
+[customername]-FF252CB5	Azure App Service	Cost after optimization	14354.481822903112
+[customername]-FF252CB5	Azure Database for MySQL	Cost after optimization	13964.373151131176
+[customername]-FF252CB5	Backup	Cost after optimization	4841.0343505191386
+[customername]-FF252CB5	Other	Cost after optimization	7817.7115872376107
+[customername]-FF252CB5	Storage	Cost after optimization	139886.47765529645
+[customername]-FF252CB5	Virtual Machines	Cost after optimization	258243.45344162488
+[customername]-CD872C21	Azure Data Factory v2	Cost	10295.811258731934
+[customername]-CD872C21	Azure DevOps	Cost	2423.4018552354651
+[customername]-CD872C21	Azure Update Manager	Cost	2850.8711661755765
+[customername]-CD872C21	Backup	Cost	3962.1143038644877
+[customername]-CD872C21	Log Analytics	Cost	21664.770836129297
+[customername]-CD872C21	Other	Cost	3960.6730015049707
+[customername]-CD872C21	Power BI Embedded	Cost	5772.221586927978
+[customername]-CD872C21	SQL Database	Cost	80431.970317249783
+[customername]-CD872C21	Storage	Cost	34924.772391369639
+[customername]-CD872C21	Virtual Machines	Cost	55772.13782195378
+[customername]-CD872C21	Virtual Machines Licenses	Cost	3844.7392158518128
+[customername]-CD872C21	Virtual Network	Cost	2374.9664511871329
+[customername]-CD872C21	Azure Data Factory v2	Cost after optimization	10295.811258731912
+[customername]-CD872C21	Azure DevOps	Cost after optimization	2423.4018552354619
+[customername]-CD872C21	Azure Update Manager	Cost after optimization	2850.8711661750699
+[customername]-CD872C21	Backup	Cost after optimization	3962.1143038645146
+[customername]-CD872C21	Log Analytics	Cost after optimization	21664.770836129312
+[customername]-CD872C21	Other	Cost after optimization	3960.6730015050157
+[customername]-CD872C21	Power BI Embedded	Cost after optimization	5772.221586927978
+[customername]-CD872C21	SQL Database	Cost after optimization	80431.970317249652
+[customername]-CD872C21	Storage	Cost after optimization	34924.772391372731
+[customername]-CD872C21	Virtual Machines	Cost after optimization	15556.803701055578
+[customername]-CD872C21	Virtual Machines Licenses	Cost after optimization	3844.7392158518123
+[customername]-CD872C21	Virtual Network	Cost after optimization	2374.9664511871156
+[customername]-CBA66E32	API Management	Cost	1192.0496804411989
+[customername]-CBA66E32	Azure Cosmos DB	Cost	1296.8917416285788
+[customername]-CBA66E32	Azure Database for PostgreSQL	Cost	20083.374597254016
+[customername]-CBA66E32	Backup	Cost	2100.6132046542316
+[customername]-CBA66E32	Bandwidth	Cost	2190.2707405107139
+[customername]-CBA66E32	Event Grid	Cost	1316.5036116892302
+[customername]-CBA66E32	Load Balancer	Cost	1444.7449962314195
+[customername]-CBA66E32	Log Analytics	Cost	3850.1627489679004
+[customername]-CBA66E32	Other	Cost	3586.9246209065027
+[customername]-CBA66E32	Redis Cache	Cost	3859.2661247524138
+[customername]-CBA66E32	Storage	Cost	23492.675463434323
+[customername]-CBA66E32	Virtual Machines	Cost	34307.643644065625
+[customername]-CBA66E32	VPN Gateway	Cost	2434.0573365620098
+[customername]-CBA66E32	API Management	Cost after optimization	1192.0496804411991
+[customername]-CBA66E32	Azure Cosmos DB	Cost after optimization	1296.891741628574
+[customername]-CBA66E32	Azure Database for PostgreSQL	Cost after optimization	20083.37459725398
+[customername]-CBA66E32	Backup	Cost after optimization	2100.6132046542489
+[customername]-CBA66E32	Bandwidth	Cost after optimization	2190.2707405107203
+[customername]-CBA66E32	Event Grid	Cost after optimization	1316.5036116892306
+[customername]-CBA66E32	Load Balancer	Cost after optimization	1444.7449962314186
+[customername]-CBA66E32	Log Analytics	Cost after optimization	3850.1627489679049
+[customername]-CBA66E32	Other	Cost after optimization	3586.9246209065
+[customername]-CBA66E32	Redis Cache	Cost after optimization	3859.2661247524147
+[customername]-CBA66E32	Storage	Cost after optimization	23492.67546343404
+[customername]-CBA66E32	Virtual Machines	Cost after optimization	22854.572387576707
+[customername]-CBA66E32	VPN Gateway	Cost after optimization	2434.0573365620094
+[customername]-D70A78C9	Azure App Service	Cost	112230.99396102365
+[customername]-D70A78C9	Azure Data Factory v2	Cost	79912.857838572236
+[customername]-D70A78C9	Azure Databricks	Cost	1250942.356791873
+[customername]-D70A78C9	Azure DevOps	Cost	58089.937903350248
+[customername]-D70A78C9	Azure Firewall	Cost	173497.04247461841
+[customername]-D70A78C9	Azure Monitor	Cost	129277.0345542955
+[customername]-D70A78C9	Azure Purview	Cost	51922.541194138408
+[customername]-D70A78C9	Log Analytics	Cost	77229.66867421224
+[customername]-D70A78C9	Microsoft Defender for Cloud	Cost	95299.706753030987
+[customername]-D70A78C9	Other	Cost	193806.42508259823
+[customername]-D70A78C9	Sentinel	Cost	58520.584861048352
+[customername]-D70A78C9	SQL Database	Cost	57937.781497182194
+[customername]-D70A78C9	Storage	Cost	644463.0722848163
+[customername]-D70A78C9	Virtual Machines	Cost	685001.65706307639
+[customername]-D70A78C9	Virtual Network	Cost	291700.48579365585
+[customername]-D70A78C9	Azure App Service	Cost after optimization	112230.99396102369
+[customername]-D70A78C9	Azure Data Factory v2	Cost after optimization	79912.857838572265
+[customername]-D70A78C9	Azure Databricks	Cost after optimization	1250942.3567918728
+[customername]-D70A78C9	Azure DevOps	Cost after optimization	58089.937903349972
+[customername]-D70A78C9	Azure Firewall	Cost after optimization	173497.04247461801
+[customername]-D70A78C9	Azure Monitor	Cost after optimization	129277.034554293
+[customername]-D70A78C9	Azure Purview	Cost after optimization	51922.541194138408
+[customername]-D70A78C9	Log Analytics	Cost after optimization	77229.66867421224
+[customername]-D70A78C9	Microsoft Defender for Cloud	Cost after optimization	95299.706753028149
+[customername]-D70A78C9	Other	Cost after optimization	193806.4250825971
+[customername]-D70A78C9	Sentinel	Cost after optimization	58520.584861048352
+[customername]-D70A78C9	SQL Database	Cost after optimization	57937.781497182179
+[customername]-D70A78C9	Storage	Cost after optimization	637003.07228488429
+[customername]-D70A78C9	Virtual Machines	Cost after optimization	539511.92569804599
+[customername]-D70A78C9	Virtual Network	Cost after optimization	291700.485793659
+[customername]-D226A04D	Application Gateway	Cost	1016081.7341519764
+[customername]-D226A04D	Azure App Service	Cost	6681043.9410508797
+[customername]-D226A04D	Azure Cognitive Search	Cost	2013515.7114829405
+[customername]-D226A04D	Azure Cosmos DB	Cost	1283135.2872589866
+[customername]-D226A04D	Azure DevOps	Cost	1280570.0172046483
+[customername]-D226A04D	Azure Firewall	Cost	1390980.8647881029
+[customername]-D226A04D	Azure Front Door Service	Cost	1454412.1975226882
+[customername]-D226A04D	Backup	Cost	2361861.8559185802
+[customername]-D226A04D	Bandwidth	Cost	2995243.6399176926
+[customername]-D226A04D	Content Delivery Network	Cost	1214541.7152262419
+[customername]-D226A04D	Functions	Cost	1453380.5336688128
+[customername]-D226A04D	GitHub	Cost	836534.96332145948
+[customername]-D226A04D	Log Analytics	Cost	5881910.9813907836
+[customername]-D226A04D	Microsoft Defender for Cloud	Cost	3240136.1436735839
+[customername]-D226A04D	Other	Cost	5536217.5126543259
+[customername]-D226A04D	SQL Database	Cost	10519249.743211053
+[customername]-D226A04D	Storage	Cost	9478009.7126867697
+[customername]-D226A04D	Virtual Machines	Cost	8423440.5023300778
+[customername]-D226A04D	Virtual Machines Licenses	Cost	1472423.5429245573
+[customername]-D226A04D	Virtual WAN	Cost	791362.42065586103
+[customername]-D226A04D	Visual Studio Subscription	Cost	1972833.2436080081
+[customername]-D226A04D	Application Gateway	Cost after optimization	1016081.7341519832
+[customername]-D226A04D	Azure App Service	Cost after optimization	6662567.9410508443
+[customername]-D226A04D	Azure Cognitive Search	Cost after optimization	2013515.7114829407
+[customername]-D226A04D	Azure Cosmos DB	Cost after optimization	1267762.2872589822
+[customername]-D226A04D	Azure DevOps	Cost after optimization	1280570.0172046728
+[customername]-D226A04D	Azure Firewall	Cost after optimization	1390980.8647880808
+[customername]-D226A04D	Azure Front Door Service	Cost after optimization	1454412.1975226765
+[customername]-D226A04D	Backup	Cost after optimization	2361861.8559185518
+[customername]-D226A04D	Bandwidth	Cost after optimization	2995243.6399176437
+[customername]-D226A04D	Content Delivery Network	Cost after optimization	1214541.7152262332
+[customername]-D226A04D	Functions	Cost after optimization	1453380.5336688107
+[customername]-D226A04D	GitHub	Cost after optimization	836534.96332146111
+[customername]-D226A04D	Log Analytics	Cost after optimization	5881910.9813907892
+[customername]-D226A04D	Microsoft Defender for Cloud	Cost after optimization	3240136.1436736202
+[customername]-D226A04D	Other	Cost after optimization	5536217.5126551706
+[customername]-D226A04D	SQL Database	Cost after optimization	10519249.743210835
+[customername]-D226A04D	Storage	Cost after optimization	9470062.7126881555
+[customername]-D226A04D	Virtual Machines	Cost after optimization	1964878.4639587775
+[customername]-D226A04D	Virtual Machines Licenses	Cost after optimization	1472423.5429245885
+[customername]-D226A04D	Virtual WAN	Cost after optimization	791362.42065586732
+[customername]-D226A04D	Visual Studio Subscription	Cost after optimization	1972833.2436080084
+[customername]-17C145B4	Application Gateway	Cost	4891.0884219787022
+[customername]-17C145B4	Azure Cosmos DB	Cost	12136.813648398233
+[customername]-17C145B4	Backup	Cost	4118.3005261020171
+[customername]-17C145B4	Bandwidth	Cost	6571.0074526868548
+[customername]-17C145B4	Container Registry	Cost	2445.0066052992688
+[customername]-17C145B4	Load Balancer	Cost	2088.654273551168
+[customername]-17C145B4	Logic Apps	Cost	2232.5117663168371
+[customername]-17C145B4	Other	Cost	3864.5909000604556
+[customername]-17C145B4	SQL Database	Cost	3893.0318790322463
+[customername]-17C145B4	Storage	Cost	29420.498093772192
+[customername]-17C145B4	Virtual Machines	Cost	67387.345286299023
+[customername]-17C145B4	Virtual Network	Cost	6822.237827881444
+[customername]-17C145B4	Application Gateway	Cost after optimization	4891.0884219786885
+[customername]-17C145B4	Azure Cosmos DB	Cost after optimization	12136.813648393965
+[customername]-17C145B4	Backup	Cost after optimization	4118.3005261019953
+[customername]-17C145B4	Bandwidth	Cost after optimization	6571.0074526868493
+[customername]-17C145B4	Container Registry	Cost after optimization	2445.0066052992574
+[customername]-17C145B4	Load Balancer	Cost after optimization	2088.654273551168
+[customername]-17C145B4	Logic Apps	Cost after optimization	2232.511766316848
+[customername]-17C145B4	Other	Cost after optimization	3864.5909000604015
+[customername]-17C145B4	SQL Database	Cost after optimization	3893.0318790322572
+[customername]-17C145B4	Storage	Cost after optimization	29420.498093773254
+[customername]-17C145B4	Virtual Machines	Cost after optimization	58328.093143686361
+[customername]-17C145B4	Virtual Network	Cost after optimization	6822.2378278814904
+[customername]-D189DCD7	API Management	Cost	415.10399999999998
+[customername]-D189DCD7	Azure App Service	Cost	206.66879999999966
+[customername]-D189DCD7	Azure Arc	Cost	2196.2092799999909
+[customername]-D189DCD7	Log Analytics	Cost	758.79271403983478
+[customername]-D189DCD7	Other	Cost	41.160453896840011
+[customername]-D189DCD7	Storage	Cost	804.06610488299907
+[customername]-D189DCD7	API Management	Cost after optimization	415.10399999999998
+[customername]-D189DCD7	Azure App Service	Cost after optimization	206.66879999999966
+[customername]-D189DCD7	Azure Arc	Cost after optimization	2196.2092799999909
+[customername]-D189DCD7	Log Analytics	Cost after optimization	758.79271403983478
+[customername]-D189DCD7	Other	Cost after optimization	41.160453896840011
+[customername]-D189DCD7	Storage	Cost after optimization	804.06610488299907
+[customername]-890E4584	Microsoft Defender for Cloud	Cost	35.581844659645348
+[customername]-890E4584	Other	Cost	1.9633534000000012E-4
+[customername]-890E4584	Storage	Cost	1.3030220044999978
+[customername]-890E4584	Virtual Network	Cost	12.370799999999994
+[customername]-890E4584	Microsoft Defender for Cloud	Cost after optimization	35.581844659645348
+[customername]-890E4584	Other	Cost after optimization	1.9633534000000012E-4
+[customername]-890E4584	Storage	Cost after optimization	1.3030220044999978
+[customername]-890E4584	Virtual Network	Cost after optimization	12.370799999999994
+[customername]-26E1FEA2	API Management	Cost	19746.305824522886
+[customername]-26E1FEA2	Azure Analysis Services	Cost	26085.639150917174
+[customername]-26E1FEA2	Azure App Service	Cost	153893.00980596981
+[customername]-26E1FEA2	Azure Cognitive Search	Cost	23143.451179316213
+[customername]-26E1FEA2	Azure Cosmos DB	Cost	14954.247956933103
+[customername]-26E1FEA2	Azure Data Factory v2	Cost	33882.497101263747
+[customername]-26E1FEA2	Azure Databricks	Cost	93077.107576152033
+[customername]-26E1FEA2	Azure DevOps	Cost	21312.618498639702
+[customername]-26E1FEA2	Azure Front Door Service	Cost	29545.454973048756
+[customername]-26E1FEA2	Data Lake Store	Cost	67128.440630715399
+[customername]-26E1FEA2	Functions	Cost	15692.113945534089
+[customername]-26E1FEA2	Log Analytics	Cost	40558.022342827833
+[customername]-26E1FEA2	Microsoft Defender for Cloud	Cost	13056.477510234045
+[customername]-26E1FEA2	Other	Cost	55467.052736422011
+[customername]-26E1FEA2	SQL Database	Cost	33123.814024990279
+[customername]-26E1FEA2	Storage	Cost	155120.27295099982
+[customername]-26E1FEA2	Virtual Machines	Cost	145105.66794251144
+[customername]-26E1FEA2	API Management	Cost after optimization	19746.305824523377
+[customername]-26E1FEA2	Azure Analysis Services	Cost after optimization	26085.639150917159
+[customername]-26E1FEA2	Azure App Service	Cost after optimization	153893.00980596541
+[customername]-26E1FEA2	Azure Cognitive Search	Cost after optimization	23143.451179316093
+[customername]-26E1FEA2	Azure Cosmos DB	Cost after optimization	13585.247956933828
+[customername]-26E1FEA2	Azure Data Factory v2	Cost after optimization	33882.49710126342
+[customername]-26E1FEA2	Azure Databricks	Cost after optimization	93077.107576151728
+[customername]-26E1FEA2	Azure DevOps	Cost after optimization	21312.61849863948
+[customername]-26E1FEA2	Azure Front Door Service	Cost after optimization	29545.454973040272
+[customername]-26E1FEA2	Data Lake Store	Cost after optimization	67128.440630715137
+[customername]-26E1FEA2	Functions	Cost after optimization	15692.113945533847
+[customername]-26E1FEA2	Log Analytics	Cost after optimization	40558.022342828175
+[customername]-26E1FEA2	Microsoft Defender for Cloud	Cost after optimization	13056.477510235334
+[customername]-26E1FEA2	Other	Cost after optimization	55467.052736420068
+[customername]-26E1FEA2	SQL Database	Cost after optimization	33123.814024989202
+[customername]-26E1FEA2	Storage	Cost after optimization	140684.27295140567
+[customername]-26E1FEA2	Virtual Machines	Cost after optimization	119765.12535363258
+[customername]-E12862E5	Azure App Service	Cost	1146.0028372194347
+[customername]-E12862E5	Backup	Cost	1752.1928215245332
+[customername]-E12862E5	Other	Cost	1491.1341248582648
+[customername]-E12862E5	SQL Database	Cost	853.44879500856268
+[customername]-E12862E5	Storage	Cost	26589.960371391106
+[customername]-E12862E5	Virtual Machines	Cost	38601.100594712771
+[customername]-E12862E5	Virtual Machines Licenses	Cost	3385.4551262919804
+[customername]-E12862E5	Visual Studio Subscription	Cost	11281.977022686697
+[customername]-E12862E5	Azure App Service	Cost after optimization	1146.0028372194354
+[customername]-E12862E5	Backup	Cost after optimization	1752.1928215245262
+[customername]-E12862E5	Other	Cost after optimization	1491.1341248582687
+[customername]-E12862E5	SQL Database	Cost after optimization	853.4487950085628
+[customername]-E12862E5	Storage	Cost after optimization	26589.960371390785
+[customername]-E12862E5	Virtual Machines	Cost after optimization	21950.642230483834
+[customername]-E12862E5	Virtual Machines Licenses	Cost after optimization	3385.4551262919535
+[customername]-E12862E5	Visual Studio Subscription	Cost after optimization	11281.977022686702
+[customername]-50729A6B	Azure App Service	Cost	576824.75656421774
+[customername]-50729A6B	Azure DDOS Protection	Cost	133197.41241299702
+[customername]-50729A6B	Azure DevOps	Cost	211854.94269677735
+[customername]-50729A6B	Azure Firewall	Cost	66817.882390702842
+[customername]-50729A6B	Azure Monitor	Cost	86173.657950216861
+[customername]-50729A6B	Azure Synapse Analytics	Cost	143195.72377217846
+[customername]-50729A6B	Backup	Cost	135602.52180851181
+[customername]-50729A6B	ExpressRoute	Cost	142643.66488500574
+[customername]-50729A6B	Log Analytics	Cost	202842.65354160918
+[customername]-50729A6B	Microsoft Defender for Cloud	Cost	231655.64529326497
+[customername]-50729A6B	Other	Cost	329026.44105248404
+[customername]-50729A6B	Sentinel	Cost	314344.77944909624
+[customername]-50729A6B	SQL Database	Cost	139159.09016827637
+[customername]-50729A6B	SQL Managed Instance	Cost	76650.676921769787
+[customername]-50729A6B	Storage	Cost	842261.80607500009
+[customername]-50729A6B	Virtual Machines	Cost	497043.89611197554
+[customername]-50729A6B	Virtual Machines Licenses	Cost	194455.67778674292
+[customername]-50729A6B	Virtual Network	Cost	57602.595068558963
+[customername]-50729A6B	Azure App Service	Cost after optimization	558649.75656414148
+[customername]-50729A6B	Azure DDOS Protection	Cost after optimization	133197.41241300129
+[customername]-50729A6B	Azure DevOps	Cost after optimization	211854.94269677642
+[customername]-50729A6B	Azure Firewall	Cost after optimization	66817.882390702478
+[customername]-50729A6B	Azure Monitor	Cost after optimization	86173.65795021024
+[customername]-50729A6B	Azure Synapse Analytics	Cost after optimization	143195.72377218714
+[customername]-50729A6B	Backup	Cost after optimization	135602.52180850826
+[customername]-50729A6B	ExpressRoute	Cost after optimization	142643.66488500638
+[customername]-50729A6B	Log Analytics	Cost after optimization	202842.65354161008
+[customername]-50729A6B	Microsoft Defender for Cloud	Cost after optimization	231655.6452934542
+[customername]-50729A6B	Other	Cost after optimization	329026.44105247501
+[customername]-50729A6B	Sentinel	Cost after optimization	314344.77944909642
+[customername]-50729A6B	SQL Database	Cost after optimization	139159.09016827823
+[customername]-50729A6B	SQL Managed Instance	Cost after optimization	54009.676921770006
+[customername]-50729A6B	Storage	Cost after optimization	827960.8060750342
+[customername]-50729A6B	Virtual Machines	Cost after optimization	390335.38574415731
+[customername]-50729A6B	Virtual Machines Licenses	Cost after optimization	194455.67778674205
+[customername]-50729A6B	Virtual Network	Cost after optimization	57602.595068568553
+[customername]-13CBAE19	API Management	Cost	81308.716217100664
+[customername]-13CBAE19	Azure Analysis Services	Cost	154159.26902393455
+[customername]-13CBAE19	Azure App Service	Cost	749711.54937430844
+[customername]-13CBAE19	Azure Cosmos DB	Cost	229737.87735662708
+[customername]-13CBAE19	Azure Data Factory v2	Cost	85451.209993627155
+[customername]-13CBAE19	Azure Databricks	Cost	292083.23809708311
+[customername]-13CBAE19	Azure DevOps	Cost	75825.093448697226
+[customername]-13CBAE19	Azure Monitor	Cost	371050.46149474871
+[customername]-13CBAE19	Azure Synapse Analytics	Cost	112081.10022037878
+[customername]-13CBAE19	Backup	Cost	101130.32881822603
+[customername]-13CBAE19	Log Analytics	Cost	254118.04165168048
+[customername]-13CBAE19	Microsoft Defender for Cloud	Cost	95947.688261242642
+[customername]-13CBAE19	Other	Cost	423828.29860934307
+[customername]-13CBAE19	Redis Cache	Cost	64820.8931529408
+[customername]-13CBAE19	Sentinel	Cost	58576.791688148995
+[customername]-13CBAE19	SQL Database	Cost	229502.22893106652
+[customername]-13CBAE19	SQL Managed Instance	Cost	103264.3588514185
+[customername]-13CBAE19	Storage	Cost	1084979.4544724552
+[customername]-13CBAE19	Virtual Machines	Cost	764528.35450627492
+[customername]-13CBAE19	Virtual Network	Cost	107003.46117818127
+[customername]-13CBAE19	API Management	Cost after optimization	81308.716217100649
+[customername]-13CBAE19	Azure Analysis Services	Cost after optimization	154159.26902393461
+[customername]-13CBAE19	Azure App Service	Cost after optimization	748442.54937431111
+[customername]-13CBAE19	Azure Cosmos DB	Cost after optimization	229126.87735662362
+[customername]-13CBAE19	Azure Data Factory v2	Cost after optimization	85451.20999362733
+[customername]-13CBAE19	Azure Databricks	Cost after optimization	292083.23809708364
+[customername]-13CBAE19	Azure DevOps	Cost after optimization	75825.09344869724
+[customername]-13CBAE19	Azure Monitor	Cost after optimization	371050.46149474208
+[customername]-13CBAE19	Azure Synapse Analytics	Cost after optimization	112081.10022037881
+[customername]-13CBAE19	Backup	Cost after optimization	101130.32881822583
+[customername]-13CBAE19	Log Analytics	Cost after optimization	254118.04165168034
+[customername]-13CBAE19	Microsoft Defender for Cloud	Cost after optimization	95947.688261245261
+[customername]-13CBAE19	Other	Cost after optimization	423828.29860934318
+[customername]-13CBAE19	Redis Cache	Cost after optimization	64820.893152940815
+[customername]-13CBAE19	Sentinel	Cost after optimization	58576.791688148987
+[customername]-13CBAE19	SQL Database	Cost after optimization	229502.22893106638
+[customername]-13CBAE19	SQL Managed Instance	Cost after optimization	103264.35885141863
+[customername]-13CBAE19	Storage	Cost after optimization	1084979.4544726289
+[customername]-13CBAE19	Virtual Machines	Cost after optimization	638372.35450626782
+[customername]-13CBAE19	Virtual Network	Cost after optimization	107003.46117818559
+[customername]-C26803D4	Other	Cost	0
+[customername]-C26803D4	Other	Cost after optimization	0
+[customername]-9A49C9D4	Azure Arc	Cost	15924.74847199989
+[customername]-9A49C9D4	Azure Bastion	Cost	36995.697235372318
+[customername]-9A49C9D4	Azure Firewall	Cost	20668.092361806681
+[customername]-9A49C9D4	Backup	Cost	103450.54187081996
+[customername]-9A49C9D4	ExpressRoute	Cost	93751.41137361007
+[customername]-9A49C9D4	Log Analytics	Cost	34308.456519510801
+[customername]-9A49C9D4	Other	Cost	17942.484462570283
+[customername]-9A49C9D4	Storage	Cost	382053.77751279797
+[customername]-9A49C9D4	Virtual Machines	Cost	140242.11121615415
+[customername]-9A49C9D4	Azure Arc	Cost after optimization	15924.748471999901
+[customername]-9A49C9D4	Azure Bastion	Cost after optimization	36995.69723537231
+[customername]-9A49C9D4	Azure Firewall	Cost after optimization	20668.09236180675
+[customername]-9A49C9D4	Backup	Cost after optimization	103450.54187081996
+[customername]-9A49C9D4	ExpressRoute	Cost after optimization	93751.41137361007
+[customername]-9A49C9D4	Log Analytics	Cost after optimization	34308.456519510801
+[customername]-9A49C9D4	Other	Cost after optimization	17942.484462570272
+[customername]-9A49C9D4	Storage	Cost after optimization	382053.77751280757
+[customername]-9A49C9D4	Virtual Machines	Cost after optimization	67099.516567514234
+[customername]-A21812C1	Azure App Service	Cost	9238.7793054732028
+[customername]-A21812C1	Microsoft Defender for Cloud	Cost	4936.7135142465459
+[customername]-A21812C1	Other	Cost	14234.796470026471
+[customername]-A21812C1	SaaS	Cost	68248.911927699999
+[customername]-A21812C1	Storage	Cost	49492.521957130826
+[customername]-A21812C1	Virtual Machines	Cost	100332.63416385572
+[customername]-A21812C1	VPN Gateway	Cost	7613.6560801436344
+[customername]-A21812C1	Azure App Service	Cost after optimization	9238.7793054731737
+[customername]-A21812C1	Microsoft Defender for Cloud	Cost after optimization	4936.713514246514
+[customername]-A21812C1	Other	Cost after optimization	14234.79647002646
+[customername]-A21812C1	SaaS	Cost after optimization	68248.911927699985
+[customername]-A21812C1	Storage	Cost after optimization	49492.52195713234
+[customername]-A21812C1	Virtual Machines	Cost after optimization	66390.224494227121
+[customername]-A21812C1	VPN Gateway	Cost after optimization	7613.6560801436408
+[customername]-A6B2FA46	Application Gateway	Cost	21487.356159849529
+[customername]-A6B2FA46	Azure Firewall	Cost	18158.220269769459
+[customername]-A6B2FA46	Backup	Cost	167995.94667002471
+[customername]-A6B2FA46	Log Analytics	Cost	9095.2700111930135
+[customername]-A6B2FA46	Microsoft Defender for Cloud	Cost	20992.106907493304
+[customername]-A6B2FA46	Other	Cost	7421.3041506302761
+[customername]-A6B2FA46	Storage	Cost	156498.96344852122
+[customername]-A6B2FA46	Virtual Machines	Cost	157607.3171357174
+[customername]-A6B2FA46	VPN Gateway	Cost	12154.833301659131
+[customername]-A6B2FA46	Application Gateway	Cost after optimization	21487.356159849562
+[customername]-A6B2FA46	Azure Firewall	Cost after optimization	18158.220269769434
+[customername]-A6B2FA46	Backup	Cost after optimization	145559.61651592751
+[customername]-A6B2FA46	Log Analytics	Cost after optimization	9095.2700111930208
+[customername]-A6B2FA46	Microsoft Defender for Cloud	Cost after optimization	20992.106907493348
+[customername]-A6B2FA46	Other	Cost after optimization	7421.3041506302561
+[customername]-A6B2FA46	Storage	Cost after optimization	156498.96344851621
+[customername]-A6B2FA46	Virtual Machines	Cost after optimization	131326.41393500459
+[customername]-A6B2FA46	VPN Gateway	Cost after optimization	12154.833301659166
+[customername]-725D082E	Azure Cosmos DB	Cost	41991.885135926612
+[customername]-725D082E	Azure Databricks	Cost	331953.61529591307
+[customername]-725D082E	Azure Synapse Analytics	Cost	236967.90311863596
+[customername]-725D082E	Functions	Cost	13827.681830142288
+[customername]-725D082E	Log Analytics	Cost	24858.092000528424
+[customername]-725D082E	Microsoft Defender for Cloud	Cost	70552.866576761051
+[customername]-725D082E	Other	Cost	48673.505033365705
+[customername]-725D082E	Sentinel	Cost	23857.702985010063
+[customername]-725D082E	Storage	Cost	221562.9238274385
+[customername]-725D082E	Virtual Machines	Cost	321017.21405273554
+[customername]-725D082E	Azure Cosmos DB	Cost after optimization	36092.885135926626
+[customername]-725D082E	Azure Databricks	Cost after optimization	331953.61529591202
+[customername]-725D082E	Azure Synapse Analytics	Cost after optimization	236967.90311863623
+[customername]-725D082E	Functions	Cost after optimization	13827.681830142192
+[customername]-725D082E	Log Analytics	Cost after optimization	24858.092000528399
+[customername]-725D082E	Microsoft Defender for Cloud	Cost after optimization	70552.866576748464
+[customername]-725D082E	Other	Cost after optimization	48673.505033366462
+[customername]-725D082E	Sentinel	Cost after optimization	23857.702985010063
+[customername]-725D082E	Storage	Cost after optimization	221562.92382741795
+[customername]-725D082E	Virtual Machines	Cost after optimization	128428.01380515791
+[customername]-D1E775A0	Azure App Service	Cost	69332.845956748351
+[customername]-D1E775A0	Azure Bastion	Cost	2424.2899422821356
+[customername]-D1E775A0	Azure Cognitive Search	Cost	3791.9885133609246
+[customername]-D1E775A0	Azure Cosmos DB	Cost	7938.575525092625
+[customername]-D1E775A0	Azure Front Door Service	Cost	5688.0940690563511
+[customername]-D1E775A0	Azure Monitor	Cost	2891.030673084414
+[customername]-D1E775A0	Log Analytics	Cost	8951.0496536295959
+[customername]-D1E775A0	Logic Apps	Cost	5136.8383925041553
+[customername]-D1E775A0	Microsoft Defender for Cloud	Cost	2427.0607800257926
+[customername]-D1E775A0	Other	Cost	7218.3381085023639
+[customername]-D1E775A0	Power Automate	Cost	6483.9568446125795
+[customername]-D1E775A0	Redis Cache	Cost	1762.9512829267699
+[customername]-D1E775A0	SQL Database	Cost	5892.7228135417508
+[customername]-D1E775A0	Storage	Cost	8432.3244924478604
+[customername]-D1E775A0	Virtual Machines	Cost	13920.269703388818
+[customername]-D1E775A0	Azure App Service	Cost after optimization	69332.845956738864
+[customername]-D1E775A0	Azure Bastion	Cost after optimization	2424.2899422821397
+[customername]-D1E775A0	Azure Cognitive Search	Cost after optimization	3791.9885133609059
+[customername]-D1E775A0	Azure Cosmos DB	Cost after optimization	6421.5755250926686
+[customername]-D1E775A0	Azure Front Door Service	Cost after optimization	5688.0940690564121
+[customername]-D1E775A0	Azure Monitor	Cost after optimization	2891.03067308443
+[customername]-D1E775A0	Log Analytics	Cost after optimization	8951.0496536295996
+[customername]-D1E775A0	Logic Apps	Cost after optimization	5136.8383925041389
+[customername]-D1E775A0	Microsoft Defender for Cloud	Cost after optimization	2427.0607800258149
+[customername]-D1E775A0	Other	Cost after optimization	7218.3381085023984
+[customername]-D1E775A0	Power Automate	Cost after optimization	6483.9568446125813
+[customername]-D1E775A0	Redis Cache	Cost after optimization	1762.9512829267735
+[customername]-D1E775A0	SQL Database	Cost after optimization	5892.7228135417572
+[customername]-D1E775A0	Storage	Cost after optimization	8432.3244924472619
+[customername]-D1E775A0	Virtual Machines	Cost after optimization	10062.07772124355
+[customername]-53475226	Application Gateway	Cost	13124.760480000603
+[customername]-53475226	Azure App Service	Cost	5035.5277288277757
+[customername]-53475226	Azure Data Factory v2	Cost	20842.30421636238
+[customername]-53475226	Backup	Cost	46196.470869080753
+[customername]-53475226	Microsoft Defender for Cloud	Cost	13611.547870709372
+[customername]-53475226	Other	Cost	9201.2884201406487
+[customername]-53475226	SQL Database	Cost	68395.751480547231
+[customername]-53475226	Storage	Cost	106710.12441988879
+[customername]-53475226	Virtual Machines	Cost	53911.598444566291
+[customername]-53475226	Application Gateway	Cost after optimization	13124.760479999994
+[customername]-53475226	Azure App Service	Cost after optimization	5035.5277288277093
+[customername]-53475226	Azure Data Factory v2	Cost after optimization	20842.30421636175
+[customername]-53475226	Backup	Cost after optimization	46196.470869080993
+[customername]-53475226	Microsoft Defender for Cloud	Cost after optimization	13611.547870704253
+[customername]-53475226	Other	Cost after optimization	9201.288420140585
+[customername]-53475226	SQL Database	Cost after optimization	68395.751480546329
+[customername]-53475226	Storage	Cost after optimization	106710.12441987926
+[customername]-53475226	Virtual Machines	Cost after optimization	50761.2820592477
+[customername]-02D80417	Azure App Service	Cost	7503.3068215807943
+[customername]-02D80417	Azure Data Factory v2	Cost	20399.895853243986
+[customername]-02D80417	Azure DevOps	Cost	808.48759117597808
+[customername]-02D80417	Logic Apps	Cost	1745.1174299741465
+[customername]-02D80417	NAT Gateway	Cost	662.84387363211044
+[customername]-02D80417	Other	Cost	343.77841922237053
+[customername]-02D80417	SQL Database	Cost	16373.072991378507
+[customername]-02D80417	Storage	Cost	2102.4291513230164
+[customername]-02D80417	Azure App Service	Cost after optimization	7503.3068215807943
+[customername]-02D80417	Azure Data Factory v2	Cost after optimization	20399.895853243986
+[customername]-02D80417	Azure DevOps	Cost after optimization	808.48759117597808
+[customername]-02D80417	Logic Apps	Cost after optimization	1745.1174299741465
+[customername]-02D80417	NAT Gateway	Cost after optimization	662.84387363211044
+[customername]-02D80417	Other	Cost after optimization	343.77841922237053
+[customername]-02D80417	SQL Database	Cost after optimization	16373.072991378507
+[customername]-02D80417	Storage	Cost after optimization	2102.4291513230164
+[customername]-0DE7667B	API Management	Cost	21185.430633039919
+[customername]-0DE7667B	Azure App Service	Cost	36213.036096636242
+[customername]-0DE7667B	Azure Cosmos DB	Cost	16438.289531277158
+[customername]-0DE7667B	Azure Data Factory v2	Cost	29377.334550693729
+[customername]-0DE7667B	Azure DevOps	Cost	32025.479394036171
+[customername]-0DE7667B	Azure Synapse Analytics	Cost	44749.856714844762
+[customername]-0DE7667B	Event Hubs	Cost	7578.5954365692414
+[customername]-0DE7667B	Functions	Cost	39197.902996013814
+[customername]-0DE7667B	Log Analytics	Cost	21220.352038206478
+[customername]-0DE7667B	Logic Apps	Cost	112721.66517158548
+[customername]-0DE7667B	Other	Cost	17628.452477081333
+[customername]-0DE7667B	Service Bus	Cost	8538.3447494269931
+[customername]-0DE7667B	SQL Database	Cost	137558.02267251298
+[customername]-0DE7667B	Storage	Cost	62541.69603384006
+[customername]-0DE7667B	Virtual Machines	Cost	116677.92088126537
+[customername]-0DE7667B	API Management	Cost after optimization	21185.430633039909
+[customername]-0DE7667B	Azure App Service	Cost after optimization	33175.036096636373
+[customername]-0DE7667B	Azure Cosmos DB	Cost after optimization	13162.289531277154
+[customername]-0DE7667B	Azure Data Factory v2	Cost after optimization	29377.334550693628
+[customername]-0DE7667B	Azure DevOps	Cost after optimization	32025.479394036123
+[customername]-0DE7667B	Azure Synapse Analytics	Cost after optimization	44749.856714844784
+[customername]-0DE7667B	Event Hubs	Cost after optimization	7578.595436569256
+[customername]-0DE7667B	Functions	Cost after optimization	39197.902996013887
+[customername]-0DE7667B	Log Analytics	Cost after optimization	21220.352038206544
+[customername]-0DE7667B	Logic Apps	Cost after optimization	112721.66517157978
+[customername]-0DE7667B	Other	Cost after optimization	17628.452477081351
+[customername]-0DE7667B	Service Bus	Cost after optimization	8538.3447494271222
+[customername]-0DE7667B	SQL Database	Cost after optimization	137558.02267251333
+[customername]-0DE7667B	Storage	Cost after optimization	62541.696033841225
+[customername]-0DE7667B	Virtual Machines	Cost after optimization	45510.077216771781
+[customername]-DCB49AE5	Azure Arc	Cost	446.69190201876489
+[customername]-DCB49AE5	Azure Bastion	Cost	399.38600967428408
+[customername]-DCB49AE5	Azure Data Factory v2	Cost	5279.4403056433375
+[customername]-DCB49AE5	Azure Firewall	Cost	1720.7795482747761
+[customername]-DCB49AE5	Azure Purview	Cost	1558.8554835077414
+[customername]-DCB49AE5	Azure Synapse Analytics	Cost	10610.972130257282
+[customername]-DCB49AE5	Other	Cost	1119.0981638011399
+[customername]-DCB49AE5	Sentinel	Cost	738.07773227901077
+[customername]-DCB49AE5	SQL Database	Cost	9418.9241242936441
+[customername]-DCB49AE5	Storage	Cost	795.51299223541059
+[customername]-DCB49AE5	VPN Gateway	Cost	674.50826543437222
+[customername]-DCB49AE5	Azure Arc	Cost after optimization	446.69190201876489
+[customername]-DCB49AE5	Azure Bastion	Cost after optimization	399.38600967428408
+[customername]-DCB49AE5	Azure Data Factory v2	Cost after optimization	5279.4403056433375
+[customername]-DCB49AE5	Azure Firewall	Cost after optimization	1720.7795482747761
+[customername]-DCB49AE5	Azure Purview	Cost after optimization	1558.8554835077414
+[customername]-DCB49AE5	Azure Synapse Analytics	Cost after optimization	10610.972130257282
+[customername]-DCB49AE5	Other	Cost after optimization	1119.0981638011397
+[customername]-DCB49AE5	Sentinel	Cost after optimization	738.07773227901077
+[customername]-DCB49AE5	SQL Database	Cost after optimization	9418.9241242936441
+[customername]-DCB49AE5	Storage	Cost after optimization	795.51299223541059
+[customername]-DCB49AE5	VPN Gateway	Cost after optimization	674.50826543437222
+[customername]-E5C3446F	API Management	Cost	16459.41502000008
+[customername]-E5C3446F	Application Gateway	Cost	36238.333250137875
+[customername]-E5C3446F	Azure App Service	Cost	48110.50327674819
+[customername]-E5C3446F	Azure Database for MySQL	Cost	32903.193045146218
+[customername]-E5C3446F	Azure DDOS Protection	Cost	15380.950278055505
+[customername]-E5C3446F	Azure DevOps	Cost	11467.692117564593
+[customername]-E5C3446F	Azure Firewall	Cost	14731.500127299205
+[customername]-E5C3446F	Azure Monitor	Cost	39524.268679278655
+[customername]-E5C3446F	Azure Synapse Analytics	Cost	30971.543077047994
+[customername]-E5C3446F	Container Instances	Cost	12320.422861518462
+[customername]-E5C3446F	Log Analytics	Cost	83089.57117241621
+[customername]-E5C3446F	Microsoft Copilot for Security	Cost	35341.799999999945
+[customername]-E5C3446F	Microsoft Defender for Cloud	Cost	46153.564956187678
+[customername]-E5C3446F	Other	Cost	45165.288004721937
+[customername]-E5C3446F	Sentinel	Cost	74836.958791116034
+[customername]-E5C3446F	SQL Database	Cost	37740.207281514369
+[customername]-E5C3446F	SQL Managed Instance	Cost	50513.777046898074
+[customername]-E5C3446F	Storage	Cost	91676.857869678366
+[customername]-E5C3446F	Unassigned	Cost	13406.783700000027
+[customername]-E5C3446F	Virtual Machines	Cost	86047.330345476556
+[customername]-E5C3446F	Virtual Machines Licenses	Cost	15478.550424094192
+[customername]-E5C3446F	VPN Gateway	Cost	15832.171899999626
+[customername]-E5C3446F	API Management	Cost after optimization	16459.41502000008
+[customername]-E5C3446F	Application Gateway	Cost after optimization	36238.333250137955
+[customername]-E5C3446F	Azure App Service	Cost after optimization	46394.503276748976
+[customername]-E5C3446F	Azure Database for MySQL	Cost after optimization	32903.193045146218
+[customername]-E5C3446F	Azure DDOS Protection	Cost after optimization	15380.950278055505
+[customername]-E5C3446F	Azure DevOps	Cost after optimization	11467.692117564633
+[customername]-E5C3446F	Azure Firewall	Cost after optimization	14731.500127299205
+[customername]-E5C3446F	Azure Monitor	Cost after optimization	39524.268679278655
+[customername]-E5C3446F	Azure Synapse Analytics	Cost after optimization	30971.543077048009
+[customername]-E5C3446F	Container Instances	Cost after optimization	12320.422861518478
+[customername]-E5C3446F	Log Analytics	Cost after optimization	83089.571172416196
+[customername]-E5C3446F	Microsoft Copilot for Security	Cost after optimization	35341.799999999945
+[customername]-E5C3446F	Microsoft Defender for Cloud	Cost after optimization	46153.564956186077
+[customername]-E5C3446F	Other	Cost after optimization	45165.28800472193
+[customername]-E5C3446F	Sentinel	Cost after optimization	74836.958791116034
+[customername]-E5C3446F	SQL Database	Cost after optimization	37740.207281514682
+[customername]-E5C3446F	SQL Managed Instance	Cost after optimization	37683.777046898074
+[customername]-E5C3446F	Storage	Cost after optimization	91676.857869678584
+[customername]-E5C3446F	Unassigned	Cost after optimization	13406.783700000011
+[customername]-E5C3446F	Virtual Machines	Cost after optimization	69366.516804664599
+[customername]-E5C3446F	Virtual Machines Licenses	Cost after optimization	15478.550424094199
+[customername]-E5C3446F	VPN Gateway	Cost after optimization	15832.171899999626
+[customername]-01FE71E8	Application Gateway	Cost	62090.25887946997
+[customername]-01FE71E8	Azure DDOS Protection	Cost	38314.256398514546
+[customername]-01FE71E8	Azure Firewall	Cost	38545.415265145188
+[customername]-01FE71E8	Backup	Cost	67410.482539533303
+[customername]-01FE71E8	Bandwidth	Cost	40040.218906798858
+[customername]-01FE71E8	Cognitive Services	Cost	38058.393043448355
+[customername]-01FE71E8	ExpressRoute	Cost	19732.792984485623
+[customername]-01FE71E8	Log Analytics	Cost	55929.778611996357
+[customername]-01FE71E8	Microsoft Defender for Cloud	Cost	16875.293493337143
+[customername]-01FE71E8	Other	Cost	66030.214264839538
+[customername]-01FE71E8	SQL Managed Instance	Cost	40897.099011811464
+[customername]-01FE71E8	Storage	Cost	277283.02710864577
+[customername]-01FE71E8	Virtual Machines	Cost	469058.04071921617
+[customername]-01FE71E8	Virtual Machines Licenses	Cost	30016.671261427247
+[customername]-01FE71E8	Virtual Network	Cost	18765.589336256686
+[customername]-01FE71E8	Application Gateway	Cost after optimization	62090.258879470966
+[customername]-01FE71E8	Azure DDOS Protection	Cost after optimization	38314.256398514626
+[customername]-01FE71E8	Azure Firewall	Cost after optimization	38545.415265145093
+[customername]-01FE71E8	Backup	Cost after optimization	67410.482539533303
+[customername]-01FE71E8	Bandwidth	Cost after optimization	40040.218906799128
+[customername]-01FE71E8	Cognitive Services	Cost after optimization	38058.393043448326
+[customername]-01FE71E8	ExpressRoute	Cost after optimization	19732.792984485612
+[customername]-01FE71E8	Log Analytics	Cost after optimization	55929.778611996429
+[customername]-01FE71E8	Microsoft Defender for Cloud	Cost after optimization	16875.293493337042
+[customername]-01FE71E8	Other	Cost after optimization	66030.214264839829
+[customername]-01FE71E8	SQL Managed Instance	Cost after optimization	31693.099011811544
+[customername]-01FE71E8	Storage	Cost after optimization	277283.02710859285
+[customername]-01FE71E8	Virtual Machines	Cost after optimization	399362.96437672223
+[customername]-01FE71E8	Virtual Machines Licenses	Cost after optimization	30016.67126142724
+[customername]-01FE71E8	Virtual Network	Cost after optimization	18765.589336255111
+[customername]-FA630340	API Management	Cost	81308.716217100678
+[customername]-FA630340	Azure Analysis Services	Cost	154159.26902393461
+[customername]-FA630340	Azure App Service	Cost	749711.5493743103
+[customername]-FA630340	Azure Cosmos DB	Cost	229737.8773566279
+[customername]-FA630340	Azure Data Factory v2	Cost	85451.209993627213
+[customername]-FA630340	Azure Databricks	Cost	292083.2380970844
+[customername]-FA630340	Azure DevOps	Cost	75825.093448697196
+[customername]-FA630340	Azure Monitor	Cost	371050.46149474673
+[customername]-FA630340	Azure Synapse Analytics	Cost	112081.10022037881
+[customername]-FA630340	Backup	Cost	101130.32881822597
+[customername]-FA630340	Log Analytics	Cost	254118.04165168054
+[customername]-FA630340	Microsoft Defender for Cloud	Cost	95947.688261243005
+[customername]-FA630340	Other	Cost	423828.29860934295
+[customername]-FA630340	Redis Cache	Cost	64820.893152940771
+[customername]-FA630340	Sentinel	Cost	58576.791688148995
+[customername]-FA630340	SQL Database	Cost	229502.22893106649
+[customername]-FA630340	SQL Managed Instance	Cost	103264.35885141857
+[customername]-FA630340	Storage	Cost	1084979.4544724466
+[customername]-FA630340	Virtual Machines	Cost	764528.35450626758
+[customername]-FA630340	Virtual Network	Cost	107003.46117818142
+[customername]-FA630340	API Management	Cost after optimization	81308.716217100649
+[customername]-FA630340	Azure Analysis Services	Cost after optimization	154159.26902393461
+[customername]-FA630340	Azure App Service	Cost after optimization	748442.54937431146
+[customername]-FA630340	Azure Cosmos DB	Cost after optimization	229126.877356624
+[customername]-FA630340	Azure Data Factory v2	Cost after optimization	85451.209993627315
+[customername]-FA630340	Azure Databricks	Cost after optimization	292083.23809708434
+[customername]-FA630340	Azure DevOps	Cost after optimization	75825.09344869724
+[customername]-FA630340	Azure Monitor	Cost after optimization	371050.4614947479
+[customername]-FA630340	Azure Synapse Analytics	Cost after optimization	112081.10022037881
+[customername]-FA630340	Backup	Cost after optimization	101130.32881822585
+[customername]-FA630340	Log Analytics	Cost after optimization	254118.04165168037
+[customername]-FA630340	Microsoft Defender for Cloud	Cost after optimization	95947.68826124433
+[customername]-FA630340	Other	Cost after optimization	423828.29860934318
+[customername]-FA630340	Redis Cache	Cost after optimization	64820.893152940815
+[customername]-FA630340	Sentinel	Cost after optimization	58576.791688148987
+[customername]-FA630340	SQL Database	Cost after optimization	229502.22893106626
+[customername]-FA630340	SQL Managed Instance	Cost after optimization	103264.35885141861
+[customername]-FA630340	Storage	Cost after optimization	1084979.4544726501
+[customername]-FA630340	Virtual Machines	Cost after optimization	638372.3545062684
+[customername]-FA630340	Virtual Network	Cost after optimization	107003.46117818574

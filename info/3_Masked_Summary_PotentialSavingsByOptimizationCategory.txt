@@ -1,0 +1,83 @@
+customername	OptimizationCategory	SavingsValue
+[customername]-17C145B4	Buy Reservations	4679.2521426108551
+[customername]-FA630340	Buy Reservations	1880
+[customername]-1ABA1DEE	Buy Reservations	23707
+[customername]-D226A04D	Buy Reservations	4972506.3334622812
+[customername]-13CBAE19	Buy Reservations	1880
+[customername]-ADD982FB	Buy Reservations	68285.973141301482
+[customername]-E5C3446F	Buy Reservations	49423.8135408077
+[customername]-50729A6B	Buy Reservations	128716.51036771078
+[customername]-D70A78C9	Buy Reservations	26736.206080789983
+[customername]-FF252CB5	Buy Reservations	55983.703697065852
+[customername]-0DE7667B	Buy Reservations	32193.214192366431
+[customername]-E12862E5	Buy Reservations	8208.1915619732499
+[customername]-CD872C21	Buy Reservations	39612.872717552549
+[customername]-CBA66E32	Buy Reservations	15602.071256489076
+[customername]-1F014049	Buy Reservations	26052
+[customername]-26E1FEA2	Buy Reservations	35395.416768351875
+[customername]-D1E775A0	Buy Reservations	5375.1919821449346
+[customername]-01FE71E8	Buy Reservations	60455.498640727557
+[customername]-725D082E	Buy Reservations	333301.19793638319
+[customername]-53475226	Buy Reservations	1493.3163853189003
+[customername]-A21812C1	Buy Reservations	21551.062161074722
+[customername]-9A49C9D4	Buy Reservations	14260.0371003375
+[customername]-A6B2FA46	Buy Reservations	5039.9401795427721
+[customername]-FA630340	Decommission	2880
+[customername]-1ABA1DEE	Decommission	
+[customername]-ADD982FB	Decommission	2624.9313563975838
+[customername]-50729A6B	Decommission	576
+[customername]-1F014049	Decommission	588
+[customername]-01FE71E8	Decommission	1930.2949061662196
+[customername]-A21812C1	Decommission	6767.1258204677815
+[customername]-FA630340	Downgrade	60840
+[customername]-1ABA1DEE	Downgrade	14352
+[customername]-D226A04D	Downgrade	616781.617823796
+[customername]-ADD982FB	Downgrade	110038.44041735306
+[customername]-50729A6B	Downgrade	13932
+[customername]-D70A78C9	Downgrade	78321.161135250062
+[customername]-FF252CB5	Downgrade	1312.3948401570385
+[customername]-0DE7667B	Downgrade	13223.629472127206
+[customername]-E12862E5	Downgrade	6256.8179717111943
+[customername]-1F014049	Downgrade	7752
+[customername]-26E1FEA2	Downgrade	6767.1258204677815
+[customername]-01FE71E8	Downgrade	16973.282795599516
+[customername]-725D082E	Downgrade	28710.363317001014
+[customername]-DCB49AE5	Downgrade	843.11731533696945
+[customername]-A21812C1	Downgrade	3106.2216880835717
+[customername]-9A49C9D4	Downgrade	15065.175187205323
+[customername]-A6B2FA46	Downgrade	21199.963021170381
+[customername]-ADD982FB	Optimize Backup	258353.41593219808
+[customername]-D70A78C9	Optimize Backup	249.89708035882023
+[customername]-725D082E	Optimize Backup	995.53384575619339
+[customername]-A6B2FA46	Optimize Backup	22436.330154096795
+[customername]-FA630340	Other	1884
+[customername]-D226A04D	Other	20356.701488397892
+[customername]-AACCBEA3	Reduce Dev/Test uptime	2407
+[customername]-17C145B4	Reduce Dev/Test uptime	4380
+[customername]-D226A04D	Reduce Dev/Test uptime	286153
+[customername]-ADD982FB	Reduce Dev/Test uptime	13781
+[customername]-E5C3446F	Reduce Dev/Test uptime	3690
+[customername]-50729A6B	Reduce Dev/Test uptime	23157
+[customername]-D70A78C9	Reduce Dev/Test uptime	17925
+[customername]-0DE7667B	Reduce Dev/Test uptime	34238
+[customername]-CD872C21	Reduce Dev/Test uptime	200
+[customername]-66FBEF6B	Reduce Dev/Test uptime	3455
+[customername]-CBA66E32	Reduce Dev/Test uptime	2
+[customername]-26E1FEA2	Reduce Dev/Test uptime	621
+[customername]-01FE71E8	Reduce Dev/Test uptime	722
+[customername]-725D082E	Reduce Dev/Test uptime	1416
+[customername]-53475226	Reduce Dev/Test uptime	2967
+[customername]-A21812C1	Reduce Dev/Test uptime	2518
+[customername]-9A49C9D4	Reduce Dev/Test uptime	682
+[customername]-A6B2FA46	Reduce Dev/Test uptime	41
+[customername]-FA630340	Upgrade	60552
+[customername]-1ABA1DEE	Upgrade	72
+[customername]-D226A04D	Upgrade	673357.38559674553
+[customername]-ADD982FB	Upgrade	162263.01281945704
+[customername]-D70A78C9	Upgrade	42333.364149024674
+[customername]-FF252CB5	Upgrade	100.75947628140493
+[customername]-E12862E5	Upgrade	2185.4488305445129
+[customername]-CD872C21	Upgrade	21377.46140334658
+[customername]-1F014049	Upgrade	288
+[customername]-725D082E	Upgrade	22464.638994175828
+[customername]-9A49C9D4	Upgrade	47192.382361098258
